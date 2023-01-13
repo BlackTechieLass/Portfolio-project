@@ -1,2 +1,2 @@
 # superstore-project
-My SQL project
+/** My SQL project **/
